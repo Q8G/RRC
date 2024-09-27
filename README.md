@@ -27,6 +27,6 @@ Run the RecRoom Checker.exe file
 ```
 
 
-## **Image of a Code** 📸
+## **Image of a Tool** 📸
 
 ![App Screenshot](https://i.postimg.cc/d0JPqS6p/image.png)
