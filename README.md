@@ -11,10 +11,10 @@ To get a better username
 ## **How To Run** ⭐
 
 **IN Windows CMD :**
-```
+```bash
 C:\WINDOWS\system32> cd C:\Tool folder...
 ```
-```
+```bash
 C:\WINDOWS\system32> RecRoom Checker.exe
 ```
 
